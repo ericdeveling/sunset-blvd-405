@@ -105,7 +105,7 @@
       ],
       [
         "Edificio",
-        "Condominio pequeño y tranquilo"
+        "Condominio íntimo, 21 apartamentos"
       ],
       [
         "Amueblado",
@@ -143,11 +143,11 @@
       ],
       [
         "Pequeño y cercano",
-        "Un condominio pequeño, con pocos apartamentos. Las áreas comunes se mantienen tranquilas."
+        "Un condominio pequeño, con solo 21 apartamentos. Las áreas comunes se mantienen tranquilas."
       ],
       [
         "Tranquilo, pero cerca",
-        "Una calle residencial muy tranquila, lejos de la zona de bares. El centro de Jacó queda cerca."
+        "Una calle residencial muy tranquila, lejos de la zona de bares. El centro de Jacó está a pocos minutos."
       ],
       [
         "Ya genera ingresos",
@@ -197,7 +197,7 @@
   "building": {
     "tag": "El edificio",
     "h2": "Un edificio pequeño y sereno",
-    "p": "Sunset Boulevard es un condominio pequeño, con pocos apartamentos. Tiene piscina con una pared de piedra en cascada, una sala techada junto a ella, ascensor y parqueo techado. Las áreas comunes se mantienen tranquilas y bien cuidadas.",
+    "p": "Sunset Boulevard es un condominio pequeño, con solo 21 apartamentos. Tiene piscina con una pared de piedra en cascada, una sala techada junto a ella, ascensor y parqueo techado. Las áreas comunes se mantienen tranquilas y bien cuidadas.",
     "amenities": [
       [
         "Piscina",
@@ -225,7 +225,7 @@
   "included": {
     "tag": "Qué incluye",
     "h2": "Amueblado y listo",
-    "intro": "Todo lo siguiente se queda con el apartamento.",
+    "intro": "Todo lo que hay en el apartamento se incluye en la venta.",
     "items": [
       [
         "Vista al mar",
@@ -261,7 +261,7 @@
       ],
       [
         "Amueblado",
-        "Camas, ropa de cama, utensilios de cocina"
+        "Todos los muebles, ropa de cama y utensilios de cocina"
       ],
       [
         "Parqueo techado",
@@ -281,7 +281,7 @@
     "tag": "Ubicación",
     "h2": "Jacó Sur: tranquilo y cerca de todo",
     "p1": "El apartamento está en el extremo sur de Playa Jacó, donde la playa se curva y forma una bahía. Aquí el agua es más calmada. La calle es tranquila y relajada.",
-    "p2": "El centro de Jacó, con sus restaurantes, tiendas y supermercados, queda cerca. El ruido de la zona de bares no llega hasta aquí.",
+    "p2": "El centro de Jacó, con sus restaurantes, tiendas y supermercados, está a pocos minutos. El ruido de la zona de bares no llega hasta aquí.",
     "points": [
       [
         "Playa Jacó",
@@ -318,7 +318,7 @@
     "p": "US$375.000. Sin comisión de corredor. Financiamiento directo del dueño. Escriba para hacer preguntas, coordinar una visita o pedir las cifras de alquiler.",
     "primary": "Escribir al dueño por WhatsApp",
     "secondary": "Véalo como lo ve un huésped",
-    "small": "WhatsApp +506 6144 8011"
+    "small": "WhatsApp +506 6144 8011 · Respondemos en español e inglés"
   },
   "footer": {
     "l1": "Sunset Boulevard · Apartamento 405 · Jacó Sur, Costa Rica",

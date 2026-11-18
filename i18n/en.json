@@ -105,7 +105,7 @@
       ],
       [
         "Building",
-        "Intimate, small-scale condominium"
+        "Intimate condominium, 21 homes"
       ],
       [
         "Furnished",
@@ -143,11 +143,11 @@
       ],
       [
         "Small and intimate",
-        "A small-scale condominium with only a few homes. Shared spaces stay calm."
+        "A small-scale condominium with just 21 homes. Shared spaces stay calm."
       ],
       [
         "Relaxed, yet close",
-        "A very relaxed residential street, away from the bar strip. The centre of Jacó is close by."
+        "A very relaxed residential street, away from the bar strip. The centre of Jacó is minutes away."
       ],
       [
         "It already earns",
@@ -197,7 +197,7 @@
   "building": {
     "tag": "The building",
     "h2": "A small building, kept calm",
-    "p": "Sunset Boulevard is an intimate condominium with only a few homes. There is a pool with a stone waterfall wall, a covered lounge beside it, an elevator and covered parking. Shared spaces stay quiet and well kept.",
+    "p": "Sunset Boulevard is an intimate condominium with just 21 homes. There is a pool with a stone waterfall wall, a covered lounge beside it, an elevator and covered parking. Shared spaces stay quiet and well kept.",
     "amenities": [
       [
         "Pool",
@@ -225,7 +225,7 @@
   "included": {
     "tag": "What's included",
     "h2": "Furnished and ready",
-    "intro": "Everything below stays with the home.",
+    "intro": "Everything in the home is included in the sale.",
     "items": [
       [
         "Ocean view",
@@ -261,7 +261,7 @@
       ],
       [
         "Furnished",
-        "Beds, linens, kitchenware"
+        "All furniture, linens and kitchenware"
       ],
       [
         "Covered parking",
@@ -281,7 +281,7 @@
     "tag": "Location",
     "h2": "South Beach Jacó: quiet, and close to everything",
     "p1": "The condo sits at the south end of Playa Jacó, where the beach curves into a bay. The water is calmer here. The street is quiet and relaxed.",
-    "p2": "The centre of Jacó, with its restaurants, shops and supermarkets, is close by. The bar strip stays out of earshot.",
+    "p2": "The centre of Jacó, with its restaurants, shops and supermarkets, is just minutes away. The bar strip stays out of earshot.",
     "points": [
       [
         "Playa Jacó",
@@ -318,7 +318,7 @@
     "p": "$375,000. No agency fees. Owner financing available. Send a message to ask questions, book a viewing or request the rental figures.",
     "primary": "Message the owner on WhatsApp",
     "secondary": "See it as a guest sees it",
-    "small": "WhatsApp +506 6144 8011"
+    "small": "WhatsApp +506 6144 8011 · Replies in English and Spanish"
   },
   "footer": {
     "l1": "Sunset Boulevard · Unit 405 · South Beach Jacó, Costa Rica",
