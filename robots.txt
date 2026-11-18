@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sunset-blvd-405.pages.dev/sitemap.xml

@@ -1,0 +1,363 @@
+{
+  "lang": "en",
+  "locale": "en_US",
+  "path": "",
+  "seo": {
+    "title": "Ocean View Condo for Sale in Jacó, Costa Rica | Sunset Blvd 405",
+    "description": "2-bed, 2-bath ocean view condo in South Beach Jacó, 50 m from the sand. Fully furnished, pool, rooftop. $375,000, sold by owner. Owner financing available.",
+    "ogTitle": "Sunset Boulevard 405 — Ocean View Condo for Sale in Jacó",
+    "ogDescription": "A quiet 2-bedroom condo on the 4th floor, 50 m from Playa Jacó. Fully furnished. $375,000. No agency fees. Owner financing available.",
+    "ogImageAlt": "Pacific Ocean at sunset seen past palm trees from the condo",
+    "ldName": "Sunset Boulevard 405 — Ocean View Condo for Sale in Jacó, Costa Rica",
+    "ldDescription": "Fully furnished 2-bedroom, 2-bathroom condo on the 4th floor, facing the ocean, about 50 m from Playa Jacó in South Beach Jacó. Small, quiet condominium with pool, rooftop terrace and covered parking. Sold by owner, no agency fees, owner financing available.",
+    "ldAmenities": [
+      "Ocean view",
+      "Swimming pool",
+      "Rooftop terrace",
+      "Covered parking",
+      "Elevator",
+      "Air conditioning",
+      "Washer and dryer",
+      "Furnished"
+    ]
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "langLabel": "Language",
+    "langOther": "Ver en español",
+    "waText": "Hi, I'm interested in buying Sunset Boulevard 405 in Jacó.",
+    "waAria": "(opens WhatsApp)",
+    "airbnbAria": "(opens Airbnb in a new tab)",
+    "close": "Close",
+    "next": "Next photo",
+    "prev": "Previous photo",
+    "counter": "Photo {n} of {total}",
+    "viewAll": "View all {total} photos",
+    "openPhoto": "Open photo",
+    "backToTop": "Back to top"
+  },
+  "nav": {
+    "logo": "Sunset Boulevard · 405",
+    "facts": "The facts",
+    "home": "The home",
+    "building": "The building",
+    "location": "Location",
+    "buying": "Buying",
+    "cta": "Enquire",
+    "ctaAria": "Enquire about Sunset Boulevard 405 on WhatsApp"
+  },
+  "hero": {
+    "tag": "South Beach Jacó · Costa Rica · Unit 405",
+    "h1": "Ocean view condo for sale in Jacó",
+    "sub": "Two bedrooms on the 4th floor, facing the sea. Fully furnished, in an intimate, small-scale condominium 50 m from a calm beach.",
+    "price": "$375,000",
+    "priceLine": [
+      "No agency fees",
+      "For sale by owner",
+      "Owner financing available"
+    ],
+    "cta": "Enquire on WhatsApp",
+    "cta2": "See the facts",
+    "scroll": "Scroll"
+  },
+  "facts": {
+    "tag": "At a glance",
+    "h2": "The facts",
+    "intro": "A Costa Rica beach condo, ready to live in or rent out.",
+    "big": [
+      [
+        "2",
+        "Bedrooms"
+      ],
+      [
+        "2",
+        "Bathrooms"
+      ],
+      [
+        "4th",
+        "Floor, ocean-facing"
+      ],
+      [
+        "74 m²",
+        "797 sq ft"
+      ]
+    ],
+    "list": [
+      [
+        "Price",
+        "$375,000"
+      ],
+      [
+        "Fees",
+        "No agency fees. Sold by owner."
+      ],
+      [
+        "Financing",
+        "Owner financing available"
+      ],
+      [
+        "Beach",
+        "About 50 m to Playa Jacó"
+      ],
+      [
+        "Area",
+        "South Beach Jacó, the quiet end of the bay"
+      ],
+      [
+        "Building",
+        "Intimate, small-scale condominium"
+      ],
+      [
+        "Furnished",
+        "Fully furnished. Sleeps 4."
+      ],
+      [
+        "Amenities",
+        "Pool, rooftop terrace, elevator"
+      ],
+      [
+        "Parking",
+        "One dedicated covered space"
+      ],
+      [
+        "HOA",
+        "$495 per month"
+      ],
+      [
+        "Income",
+        "Active vacation rental. Figures on request."
+      ],
+      [
+        "Airport",
+        "About 90 minutes from SJO"
+      ]
+    ]
+  },
+  "highlights": {
+    "tag": "Why this home",
+    "h2": "Four reasons buyers fall for it",
+    "items": [
+      [
+        "A quiet beach, a calm sea",
+        "The south end of Playa Jacó curves into a bay. The water is gentler here, and the beach is rarely crowded."
+      ],
+      [
+        "Small and intimate",
+        "A small-scale condominium with only a few homes. Shared spaces stay calm."
+      ],
+      [
+        "Relaxed, yet close",
+        "A very relaxed residential street, away from the bar strip. The centre of Jacó is close by."
+      ],
+      [
+        "It already earns",
+        "An active vacation rental with a record of guest reviews. Rental income figures on request."
+      ]
+    ]
+  },
+  "view": {
+    "tag": "The view",
+    "h2": "The sea is in every room you use most",
+    "p1": "The living room opens through a wall of sliding glass to a private terrace. Palms, then water, then sky.",
+    "p2": "You see the waves from the sofa. In the evening the light turns gold, then pink, and the whole room takes on the colour."
+  },
+  "home": {
+    "tag": "Living & kitchen",
+    "h2": "Open plan, from the stove to the sea",
+    "p": "One open space runs from the kitchen to the terrace. A quartz island with bar stools. Stainless steel appliances and a hand-painted tile backsplash. A stacked washer and dryer sit in their own corner.",
+    "caption": "Fully furnished. Bring a suitcase."
+  },
+  "rooms": {
+    "tag": "Bedrooms & bathrooms",
+    "h2": "Two bedrooms, two full baths",
+    "intro": "One bedroom faces the ocean, one faces the green hills. Both are quiet, cool and fully made up.",
+    "cards": [
+      [
+        "Main bedroom",
+        "King bed, ocean view",
+        "Wake to the sea through a full-height sliding door. The door opens straight onto the terrace."
+      ],
+      [
+        "Second bedroom",
+        "Two twin beds, jungle view",
+        "Two twin beds and a desk, with a view into the trees. Good for children, friends or a home office."
+      ],
+      [
+        "Bathrooms",
+        "Two full bathrooms",
+        "Walk-in rain showers and clean, simple finishes. Straight from the beach to a proper rinse."
+      ]
+    ]
+  },
+  "terrace": {
+    "tag": "Private terrace",
+    "h2": "A front-row seat on the Pacific",
+    "line": "Morning coffee, evening light. Scarlet macaws fly past most days."
+  },
+  "building": {
+    "tag": "The building",
+    "h2": "A small building, kept calm",
+    "p": "Sunset Boulevard is an intimate condominium with only a few homes. There is a pool with a stone waterfall wall, a covered lounge beside it, an elevator and covered parking. Shared spaces stay quiet and well kept.",
+    "amenities": [
+      [
+        "Pool",
+        "Stone waterfall wall"
+      ],
+      [
+        "Lounge",
+        "Covered, beside the pool"
+      ],
+      [
+        "Parking",
+        "Covered, one dedicated space"
+      ],
+      [
+        "Elevator",
+        "To every floor"
+      ]
+    ]
+  },
+  "rooftop": {
+    "tag": "Rooftop terrace",
+    "h2": "Sunset, from the roof",
+    "line": "The shared rooftop looks over the whole bay. Bring a drink and stay until dark."
+  },
+  "included": {
+    "tag": "What's included",
+    "h2": "Furnished and ready",
+    "intro": "Everything below stays with the home.",
+    "items": [
+      [
+        "Ocean view",
+        "From the living room, main bedroom and terrace"
+      ],
+      [
+        "Private terrace",
+        "Glass railing, dining set"
+      ],
+      [
+        "Air conditioning",
+        "Cool, quiet split units"
+      ],
+      [
+        "Smart TVs",
+        "Living room and main bedroom"
+      ],
+      [
+        "Full kitchen",
+        "Quartz island, stainless steel appliances"
+      ],
+      [
+        "Washer & dryer",
+        "In the unit"
+      ],
+      [
+        "Smart lock",
+        "Keyless entry"
+      ],
+      [
+        "Two bathrooms",
+        "Walk-in showers"
+      ],
+      [
+        "Furnished",
+        "Beds, linens, kitchenware"
+      ],
+      [
+        "Covered parking",
+        "One dedicated space"
+      ],
+      [
+        "Pool & rooftop",
+        "Shared with a small building"
+      ],
+      [
+        "Wildlife",
+        "Scarlet macaws from the terrace"
+      ]
+    ]
+  },
+  "location": {
+    "tag": "Location",
+    "h2": "South Beach Jacó: quiet, and close to everything",
+    "p1": "The condo sits at the south end of Playa Jacó, where the beach curves into a bay. The water is calmer here. The street is quiet and relaxed.",
+    "p2": "The centre of Jacó, with its restaurants, shops and supermarkets, is close by. The bar strip stays out of earshot.",
+    "points": [
+      [
+        "Playa Jacó",
+        "About 50 m, a one-minute walk"
+      ],
+      [
+        "Jacó centre",
+        "Restaurants, shops, supermarket"
+      ],
+      [
+        "Playa Hermosa",
+        "Surf beach, about 10 min by car"
+      ],
+      [
+        "Manuel Antonio",
+        "National park, about 1 h 15 min south"
+      ],
+      [
+        "SJO airport",
+        "About 90 minutes by car"
+      ]
+    ]
+  },
+  "income": {
+    "tag": "Rental income",
+    "h2": "Already working as a vacation rental",
+    "p": "Unit 405 rents on Airbnb today, with a record of guest reviews. Keep it as an income property, live in it, or both.",
+    "fixed": "Rental income figures available on request.",
+    "link": "See the Airbnb listing and guest reviews"
+  },
+  "contact": {
+    "tag": "For sale by owner",
+    "h2": "Talk to the owner directly",
+    "p": "$375,000. No agency fees. Owner financing available. Send a message to ask questions, book a viewing or request the rental figures.",
+    "primary": "Message the owner on WhatsApp",
+    "secondary": "See it as a guest sees it",
+    "small": "WhatsApp +506 6144 8011"
+  },
+  "footer": {
+    "l1": "Sunset Boulevard · Unit 405 · South Beach Jacó, Costa Rica",
+    "l2": "For sale by owner · $375,000",
+    "legal": "Information provided by the owner in good faith. Please verify details before purchase."
+  },
+  "alt": {
+    "jaco-ocean-view-condo-living-room-sunset": "Living room of an ocean view condo in Jacó, open to a balcony at sunset",
+    "jaco-condo-ocean-sunset-palm-trees-view": "Pacific Ocean at sunset seen past palm trees from the condo",
+    "jaco-condo-living-room-ocean-view-day": "Bright living room with sofa, TV and a sliding door to the sea view",
+    "jaco-condo-kitchen-island-ocean-view": "White quartz kitchen island with blue stools and the ocean through the window",
+    "jaco-condo-dining-island-sunset-view": "Kitchen island and living room with a pink sunset over the sea",
+    "jaco-condo-quartz-island-kitchen": "Open kitchen with quartz island, stainless steel stove and microwave",
+    "jaco-condo-kitchen-tile-backsplash": "Patterned tile backsplash above a white kitchen counter",
+    "jaco-condo-kitchen-washer-dryer": "Stacked washer and dryer beside the kitchen",
+    "jaco-condo-living-room-sofa-artwork": "Living room sofa with colourful artwork and the kitchen behind",
+    "jaco-condo-master-bedroom-king-bed-ocean-view": "King bed in the main bedroom with an ocean view through glass doors",
+    "jaco-condo-master-bedroom-teal-wall": "Main bedroom with a teal accent wall and wave prints",
+    "jaco-condo-master-bedroom-evening-view": "Main bedroom at dusk with a view out to the terrace",
+    "jaco-condo-second-bedroom-twin-beds": "Second bedroom with two twin beds, a desk and a window to the trees",
+    "jaco-condo-bathroom-walk-in-shower": "Bathroom with a glass walk-in rain shower",
+    "jaco-condo-second-bathroom": "Second bathroom with a walk-in shower and framed mirror",
+    "jaco-condo-private-balcony-ocean-sunset": "Private balcony with glass railing, looking over trees to a sunset sky",
+    "jaco-condo-balcony-dining-ocean-view": "Balcony dining table with a view over green hills to the sea",
+    "jaco-condo-balcony-glass-railing-jungle": "Balcony with glass railing and potted palm beside the tropical trees",
+    "jaco-condo-balcony-table-living-room": "Balcony table outside the living room, with trees and sea beyond",
+    "jaco-condo-balcony-living-room-dusk": "Balcony and living room at dusk, lights on inside",
+    "jaco-condo-pool-stone-waterfall-wall": "Building pool with a stone waterfall wall and jungle above",
+    "jaco-condo-swimming-pool-jungle": "Long swimming pool beside the stone wall, seen from the deck",
+    "jaco-condo-covered-pool-lounge": "Covered lounge by the pool with sofas and sun loungers",
+    "jaco-condo-covered-lounge-garden-view": "Covered lounge with a dining table, open to the garden",
+    "jaco-condo-covered-parking": "Covered parking area on the ground floor of the building",
+    "jaco-condo-building-walkway-ocean-air": "Open-air walkway to the unit doors, with trees alongside",
+    "jaco-condo-rooftop-terrace-ocean-sunset": "Rooftop terrace with glass railing above South Beach Jacó at sunset",
+    "jaco-condo-rooftop-lounge-chairs-sunset": "Lounge chairs on the rooftop facing the bay at sunset",
+    "jaco-condo-rooftop-deck-bay-view": "Wide rooftop deck with chairs and a view over the bay",
+    "jaco-condo-rooftop-chairs-ocean-view-day": "Rooftop chairs and plants with the ocean in daylight",
+    "jaco-condo-rooftop-view-jungle-sunset": "View from the rooftop over green treetops to the sea at dusk",
+    "jaco-condo-view-jungle-to-ocean": "View over the treetops of South Beach Jacó to the ocean",
+    "jaco-condo-living-room-sofa-sunset": "Living room sofa facing the balcony and an evening sky"
+  }
+}

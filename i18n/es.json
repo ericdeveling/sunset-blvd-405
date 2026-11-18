@@ -1,0 +1,363 @@
+{
+  "lang": "es",
+  "locale": "es_CR",
+  "path": "es/",
+  "seo": {
+    "title": "Apartamento con vista al mar en venta en Jacó | Sunset 405",
+    "description": "Apartamento con vista al mar en Jacó Sur, a 50 m de la playa. 2 habitaciones, 2 baños, amueblado, piscina y azotea. US$375.000. Financiamiento del dueño.",
+    "ogTitle": "Sunset Boulevard 405 — Apartamento con vista al mar en venta en Jacó",
+    "ogDescription": "Un apartamento tranquilo de 2 habitaciones en el 4.º piso, a 50 m de Playa Jacó. Totalmente amueblado. US$375.000. Sin comisión de corredor. Financiamiento directo del dueño.",
+    "ogImageAlt": "El océano Pacífico al atardecer, visto entre palmeras desde el apartamento",
+    "ldName": "Sunset Boulevard 405 — Apartamento con vista al mar en venta en Jacó, Costa Rica",
+    "ldDescription": "Apartamento totalmente amueblado de 2 habitaciones y 2 baños en el 4.º piso, con vista al mar, a unos 50 m de Playa Jacó, en Jacó Sur. Condominio pequeño y tranquilo, con piscina, terraza en la azotea y parqueo techado. Venta directa del dueño, sin comisión de corredor, con financiamiento directo del dueño.",
+    "ldAmenities": [
+      "Vista al mar",
+      "Piscina",
+      "Terraza en la azotea",
+      "Parqueo techado",
+      "Ascensor",
+      "Aire acondicionado",
+      "Lavadora y secadora",
+      "Amueblado"
+    ]
+  },
+  "ui": {
+    "skip": "Saltar al contenido",
+    "langLabel": "Idioma",
+    "langOther": "View in English",
+    "waText": "Hola, me interesa comprar el apartamento 405 de Sunset Boulevard en Jacó.",
+    "waAria": "(abre WhatsApp)",
+    "airbnbAria": "(abre Airbnb en una pestaña nueva)",
+    "close": "Cerrar",
+    "next": "Foto siguiente",
+    "prev": "Foto anterior",
+    "counter": "Foto {n} de {total}",
+    "viewAll": "Ver las {total} fotos",
+    "openPhoto": "Abrir foto",
+    "backToTop": "Volver arriba"
+  },
+  "nav": {
+    "logo": "Sunset Boulevard · 405",
+    "facts": "Los datos",
+    "home": "El apartamento",
+    "building": "El edificio",
+    "location": "Ubicación",
+    "buying": "Compra",
+    "cta": "Consultar",
+    "ctaAria": "Consultar por WhatsApp sobre Sunset Boulevard 405"
+  },
+  "hero": {
+    "tag": "Jacó Sur (South Beach) · Costa Rica · Apartamento 405",
+    "h1": "Apartamento con vista al mar en venta en Jacó",
+    "sub": "Dos habitaciones en el 4.º piso, con vista al mar. Totalmente amueblado, en un condominio pequeño y tranquilo, a 50 m de una playa de aguas calmadas.",
+    "price": "US$375.000",
+    "priceLine": [
+      "Sin comisión de corredor",
+      "Venta directa del dueño",
+      "Financiamiento directo del dueño"
+    ],
+    "cta": "Consultar por WhatsApp",
+    "cta2": "Ver los datos",
+    "scroll": "Deslice"
+  },
+  "facts": {
+    "tag": "De un vistazo",
+    "h2": "Los datos",
+    "intro": "Un condominio de playa en Costa Rica, listo para vivir o alquilar.",
+    "big": [
+      [
+        "2",
+        "Habitaciones"
+      ],
+      [
+        "2",
+        "Baños"
+      ],
+      [
+        "4.º",
+        "Piso, con vista al mar"
+      ],
+      [
+        "74 m²",
+        "797 pies²"
+      ]
+    ],
+    "list": [
+      [
+        "Precio",
+        "US$375.000"
+      ],
+      [
+        "Comisión",
+        "Sin comisión de corredor. Venta directa del dueño."
+      ],
+      [
+        "Financiamiento",
+        "Financiamiento directo del dueño"
+      ],
+      [
+        "Playa",
+        "A unos 50 m de Playa Jacó"
+      ],
+      [
+        "Zona",
+        "Jacó Sur, el extremo tranquilo de la bahía"
+      ],
+      [
+        "Edificio",
+        "Condominio pequeño y tranquilo"
+      ],
+      [
+        "Amueblado",
+        "Totalmente amueblado. Capacidad para 4 personas."
+      ],
+      [
+        "Amenidades",
+        "Piscina, terraza en la azotea, ascensor"
+      ],
+      [
+        "Parqueo",
+        "Un espacio techado propio"
+      ],
+      [
+        "Cuota de condominio",
+        "US$495 al mes"
+      ],
+      [
+        "Ingresos",
+        "Alquiler vacacional activo. Cifras a solicitud."
+      ],
+      [
+        "Aeropuerto",
+        "A unos 90 minutos del aeropuerto Juan Santamaría (SJO)"
+      ]
+    ]
+  },
+  "highlights": {
+    "tag": "Por qué este apartamento",
+    "h2": "Cuatro razones para elegirlo",
+    "items": [
+      [
+        "Playa tranquila, mar en calma",
+        "El extremo sur de Playa Jacó se curva y forma una bahía. Aquí el agua es más suave y la playa rara vez se llena."
+      ],
+      [
+        "Pequeño y cercano",
+        "Un condominio pequeño, con pocos apartamentos. Las áreas comunes se mantienen tranquilas."
+      ],
+      [
+        "Tranquilo, pero cerca",
+        "Una calle residencial muy tranquila, lejos de la zona de bares. El centro de Jacó queda cerca."
+      ],
+      [
+        "Ya genera ingresos",
+        "Un alquiler vacacional activo, con historial de reseñas de huéspedes. Cifras de ingresos por alquiler a solicitud."
+      ]
+    ]
+  },
+  "view": {
+    "tag": "La vista",
+    "h2": "El mar, en cada espacio que más usa",
+    "p1": "La sala se abre a una terraza privada a través de una pared de puertas corredizas de vidrio. Primero palmeras, luego el mar, luego el cielo.",
+    "p2": "Desde el sillón se ven las olas. Al atardecer la luz se vuelve dorada, luego rosada, y toda la sala toma ese color."
+  },
+  "home": {
+    "tag": "Sala y cocina",
+    "h2": "Un solo espacio, de la cocina al mar",
+    "p": "Un espacio abierto va de la cocina a la terraza. Una isla de cuarzo con bancos altos. Electrodomésticos de acero inoxidable y un salpicadero de azulejos pintados a mano. Lavadora y secadora apiladas, en su propio rincón.",
+    "caption": "Totalmente amueblado. Solo traiga la maleta."
+  },
+  "rooms": {
+    "tag": "Habitaciones y baños",
+    "h2": "Dos habitaciones, dos baños completos",
+    "intro": "Una habitación mira al mar y la otra a las colinas verdes. Las dos son tranquilas, frescas y se entregan listas para usar.",
+    "cards": [
+      [
+        "Habitación principal",
+        "Cama king, vista al mar",
+        "Despierte frente al mar, tras una puerta corrediza de piso a techo. La puerta da directo a la terraza."
+      ],
+      [
+        "Segunda habitación",
+        "Dos camas individuales, vista al bosque",
+        "Dos camas individuales y un escritorio, con vista a los árboles. Ideal para niños, invitados o una oficina en casa."
+      ],
+      [
+        "Baños",
+        "Dos baños completos",
+        "Duchas amplias tipo lluvia y acabados limpios y sencillos. De la playa, directo a una buena ducha."
+      ]
+    ]
+  },
+  "terrace": {
+    "tag": "Terraza privada",
+    "h2": "En primera fila frente al Pacífico",
+    "line": "Café por la mañana, luz dorada por la tarde. Casi todos los días pasan volando las lapas rojas."
+  },
+  "building": {
+    "tag": "El edificio",
+    "h2": "Un edificio pequeño y sereno",
+    "p": "Sunset Boulevard es un condominio pequeño, con pocos apartamentos. Tiene piscina con una pared de piedra en cascada, una sala techada junto a ella, ascensor y parqueo techado. Las áreas comunes se mantienen tranquilas y bien cuidadas.",
+    "amenities": [
+      [
+        "Piscina",
+        "Pared de piedra en cascada"
+      ],
+      [
+        "Sala exterior",
+        "Techada, junto a la piscina"
+      ],
+      [
+        "Parqueo",
+        "Techado, un espacio propio"
+      ],
+      [
+        "Ascensor",
+        "A todos los pisos"
+      ]
+    ]
+  },
+  "rooftop": {
+    "tag": "Terraza en la azotea",
+    "h2": "El atardecer, desde la azotea",
+    "line": "La azotea común mira sobre toda la bahía. Suba con algo de tomar y quédese hasta que oscurezca."
+  },
+  "included": {
+    "tag": "Qué incluye",
+    "h2": "Amueblado y listo",
+    "intro": "Todo lo siguiente se queda con el apartamento.",
+    "items": [
+      [
+        "Vista al mar",
+        "Desde la sala, la habitación principal y la terraza"
+      ],
+      [
+        "Terraza privada",
+        "Baranda de vidrio, juego de comedor"
+      ],
+      [
+        "Aire acondicionado",
+        "Equipos minisplit frescos y silenciosos"
+      ],
+      [
+        "Smart TV",
+        "Sala y habitación principal"
+      ],
+      [
+        "Cocina completa",
+        "Isla de cuarzo, electrodomésticos de acero inoxidable"
+      ],
+      [
+        "Lavadora y secadora",
+        "Dentro del apartamento"
+      ],
+      [
+        "Cerradura inteligente",
+        "Entrada sin llave"
+      ],
+      [
+        "Dos baños",
+        "Duchas amplias"
+      ],
+      [
+        "Amueblado",
+        "Camas, ropa de cama, utensilios de cocina"
+      ],
+      [
+        "Parqueo techado",
+        "Un espacio propio"
+      ],
+      [
+        "Piscina y azotea",
+        "Compartidas en un edificio pequeño"
+      ],
+      [
+        "Fauna",
+        "Lapas rojas desde la terraza"
+      ]
+    ]
+  },
+  "location": {
+    "tag": "Ubicación",
+    "h2": "Jacó Sur: tranquilo y cerca de todo",
+    "p1": "El apartamento está en el extremo sur de Playa Jacó, donde la playa se curva y forma una bahía. Aquí el agua es más calmada. La calle es tranquila y relajada.",
+    "p2": "El centro de Jacó, con sus restaurantes, tiendas y supermercados, queda cerca. El ruido de la zona de bares no llega hasta aquí.",
+    "points": [
+      [
+        "Playa Jacó",
+        "A unos 50 m, un minuto a pie"
+      ],
+      [
+        "Centro de Jacó",
+        "Restaurantes, tiendas, supermercado"
+      ],
+      [
+        "Playa Hermosa",
+        "Playa de surf, a unos 10 min en carro"
+      ],
+      [
+        "Manuel Antonio",
+        "Parque nacional, a cerca de 1 h 15 min al sur"
+      ],
+      [
+        "Aeropuerto SJO",
+        "A unos 90 minutos en carro"
+      ]
+    ]
+  },
+  "income": {
+    "tag": "Ingresos por alquiler",
+    "h2": "Ya funciona como alquiler vacacional",
+    "p": "El apartamento 405 se alquila hoy en Airbnb y tiene un historial de reseñas de huéspedes. Puede mantenerlo como propiedad de renta, vivir en él, o las dos cosas.",
+    "fixed": "Cifras de ingresos por alquiler disponibles a solicitud.",
+    "link": "Ver el anuncio en Airbnb y las reseñas de huéspedes"
+  },
+  "contact": {
+    "tag": "Venta directa del dueño",
+    "h2": "Hable directamente con el dueño",
+    "p": "US$375.000. Sin comisión de corredor. Financiamiento directo del dueño. Escriba para hacer preguntas, coordinar una visita o pedir las cifras de alquiler.",
+    "primary": "Escribir al dueño por WhatsApp",
+    "secondary": "Véalo como lo ve un huésped",
+    "small": "WhatsApp +506 6144 8011"
+  },
+  "footer": {
+    "l1": "Sunset Boulevard · Apartamento 405 · Jacó Sur, Costa Rica",
+    "l2": "Venta directa del dueño · US$375.000",
+    "legal": "Información proporcionada de buena fe por el propietario. Verifique los detalles antes de comprar."
+  },
+  "alt": {
+    "jaco-ocean-view-condo-living-room-sunset": "Sala de un apartamento con vista al mar en Jacó, abierta a un balcón al atardecer",
+    "jaco-condo-ocean-sunset-palm-trees-view": "El océano Pacífico al atardecer, visto entre palmeras desde el apartamento",
+    "jaco-condo-living-room-ocean-view-day": "Sala luminosa con sillón, televisor y puerta corrediza con vista al mar",
+    "jaco-condo-kitchen-island-ocean-view": "Isla de cocina de cuarzo blanco con bancos azules y el mar por la ventana",
+    "jaco-condo-dining-island-sunset-view": "Isla de cocina y sala con un atardecer rosado sobre el mar",
+    "jaco-condo-quartz-island-kitchen": "Cocina abierta con isla de cuarzo, cocina de acero inoxidable y microondas",
+    "jaco-condo-kitchen-tile-backsplash": "Salpicadero de azulejos con diseño sobre una encimera blanca",
+    "jaco-condo-kitchen-washer-dryer": "Lavadora y secadora apiladas junto a la cocina",
+    "jaco-condo-living-room-sofa-artwork": "Sillón de la sala con cuadros de colores y la cocina al fondo",
+    "jaco-condo-master-bedroom-king-bed-ocean-view": "Cama king en la habitación principal, con vista al mar a través de puertas de vidrio",
+    "jaco-condo-master-bedroom-teal-wall": "Habitación principal con una pared color turquesa y cuadros de olas",
+    "jaco-condo-master-bedroom-evening-view": "Habitación principal al anochecer, con vista hacia la terraza",
+    "jaco-condo-second-bedroom-twin-beds": "Segunda habitación con dos camas individuales, escritorio y ventana hacia los árboles",
+    "jaco-condo-bathroom-walk-in-shower": "Baño con ducha amplia tipo lluvia y mampara de vidrio",
+    "jaco-condo-second-bathroom": "Segundo baño con ducha amplia y espejo enmarcado",
+    "jaco-condo-private-balcony-ocean-sunset": "Balcón privado con baranda de vidrio, sobre los árboles y un cielo de atardecer",
+    "jaco-condo-balcony-dining-ocean-view": "Mesa de comedor en el balcón, con vista sobre colinas verdes hasta el mar",
+    "jaco-condo-balcony-glass-railing-jungle": "Balcón con baranda de vidrio y una palmera en maceta junto a los árboles tropicales",
+    "jaco-condo-balcony-table-living-room": "Mesa del balcón frente a la sala, con árboles y el mar al fondo",
+    "jaco-condo-balcony-living-room-dusk": "Balcón y sala al anochecer, con las luces encendidas adentro",
+    "jaco-condo-pool-stone-waterfall-wall": "Piscina del edificio con una pared de piedra en cascada y vegetación arriba",
+    "jaco-condo-swimming-pool-jungle": "Piscina alargada junto a la pared de piedra, vista desde la terraza",
+    "jaco-condo-covered-pool-lounge": "Sala techada junto a la piscina, con sillones y tumbonas",
+    "jaco-condo-covered-lounge-garden-view": "Sala techada con mesa de comedor, abierta al jardín",
+    "jaco-condo-covered-parking": "Parqueo techado en la planta baja del edificio",
+    "jaco-condo-building-walkway-ocean-air": "Pasillo exterior hacia las puertas de los apartamentos, con árboles a un lado",
+    "jaco-condo-rooftop-terrace-ocean-sunset": "Terraza en la azotea con baranda de vidrio, sobre Jacó Sur al atardecer",
+    "jaco-condo-rooftop-lounge-chairs-sunset": "Tumbonas en la azotea frente a la bahía al atardecer",
+    "jaco-condo-rooftop-deck-bay-view": "Amplia terraza en la azotea con sillas y vista sobre la bahía",
+    "jaco-condo-rooftop-chairs-ocean-view-day": "Sillas y plantas en la azotea, con el mar de día",
+    "jaco-condo-rooftop-view-jungle-sunset": "Vista desde la azotea sobre las copas de los árboles hasta el mar al anochecer",
+    "jaco-condo-view-jungle-to-ocean": "Vista sobre las copas de los árboles de Jacó Sur hasta el mar",
+    "jaco-condo-living-room-sofa-sunset": "Sillón de la sala frente al balcón y un cielo de tarde"
+  }
+}
