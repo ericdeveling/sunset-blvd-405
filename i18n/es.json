@@ -6,7 +6,7 @@
     "title": "Apartamento con vista al mar en venta en Jacó | Sunset 405",
     "description": "Apartamento con vista al mar en Jacó Sur, a 50 m de la playa. 2 habitaciones, 2 baños, amueblado, piscina y azotea. US$365.000. Financiamiento del dueño.",
     "ogTitle": "Sunset Boulevard 405 — Apartamento con vista al mar en venta en Jacó",
-    "ogDescription": "Un apartamento tranquilo de 2 habitaciones en el 4.º piso, a 50 m de Playa Jacó. Totalmente amueblado. US$365.000. Sin comisión de corredor. Financiamiento directo del dueño.",
+    "ogDescription": "Despierte frente al Pacífico en un apartamento tranquilo de 2 habitaciones, a 50 m de Playa Jacó. Totalmente amueblado. US$365.000, sin comisión de corredor, con financiamiento del dueño.",
     "ogImageAlt": "El océano Pacífico al atardecer, visto entre palmeras desde el apartamento",
     "ldName": "Sunset Boulevard 405 — Apartamento con vista al mar en venta en Jacó, Costa Rica",
     "ldDescription": "Apartamento totalmente amueblado de 2 habitaciones y 2 baños en el 4.º piso, con vista al mar, a unos 50 m de Playa Jacó, en Jacó Sur. Condominio pequeño y tranquilo, con piscina, terraza en la azotea y parqueo techado. Venta directa del dueño, sin comisión de corredor, con financiamiento directo del dueño.",
@@ -38,7 +38,7 @@
   },
   "nav": {
     "logo": "Sunset Boulevard · 405",
-    "facts": "Los datos",
+    "facts": "Lo esencial",
     "home": "El apartamento",
     "building": "El edificio",
     "location": "Ubicación",
@@ -49,7 +49,7 @@
   "hero": {
     "tag": "Jacó Sur (South Beach) · Costa Rica · Apartamento 405",
     "h1": "Apartamento con vista al mar en venta en Jacó",
-    "sub": "Dos habitaciones en el 4.º piso, con vista al mar. Totalmente amueblado, en un condominio pequeño y tranquilo, a 50 m de una playa de aguas calmadas.",
+    "sub": "Despierte frente al Pacífico. Dos habitaciones en el 4.º piso, totalmente amueblado, en un edificio pequeño y tranquilo a solo 50 m de una playa de aguas calmadas.",
     "price": "US$365.000",
     "priceLine": [
       "Sin comisión de corredor",
@@ -57,13 +57,13 @@
       "Financiamiento directo del dueño"
     ],
     "cta": "Consultar por WhatsApp",
-    "cta2": "Ver los datos",
+    "cta2": "Descubra el apartamento",
     "scroll": "Deslice"
   },
   "facts": {
-    "tag": "De un vistazo",
-    "h2": "Los datos",
-    "intro": "Un condominio de playa en Costa Rica, listo para vivir o alquilar.",
+    "tag": "En pocas palabras",
+    "h2": "Todo lo que va a disfrutar, de un vistazo",
+    "intro": "Llegue solo con la maleta, o deje que siga generando ingresos mientras usted no está.",
     "big": [
       [
         "2",
@@ -134,70 +134,70 @@
     ]
   },
   "highlights": {
-    "tag": "Por qué este apartamento",
-    "h2": "Cuatro razones para elegirlo",
+    "tag": "La vida aquí",
+    "h2": "Por qué la gente se enamora de este lugar",
     "items": [
       [
-        "Playa tranquila, mar en calma",
-        "El extremo sur de Playa Jacó se curva y forma una bahía. Aquí el agua es más suave y la playa rara vez se llena."
+        "Su propio rincón de mar en calma",
+        "En el extremo sur de Playa Jacó, la playa se curva y forma una bahía. Las olas son más suaves y muchas veces tendrá la arena casi para usted."
       ],
       [
-        "Pequeño y cercano",
-        "Un condominio pequeño, con solo 21 apartamentos. Las áreas comunes se mantienen tranquilas."
+        "Vecinos, no multitudes",
+        "Solo 21 apartamentos comparten el edificio. La piscina es tranquila, la azotea casi nunca está llena y la gente se saluda."
       ],
       [
-        "Tranquilo, pero cerca",
-        "Una calle residencial muy tranquila, lejos de la zona de bares. El centro de Jacó está a pocos minutos."
+        "Tranquilo, pero nunca lejos",
+        "Una calle relajada y verde, lejos de la vida nocturna. Los restaurantes y tiendas de Jacó están a pocos minutos."
       ],
       [
-        "Ya genera ingresos",
-        "Un alquiler vacacional activo, con historial de reseñas de huéspedes. Cifras de ingresos por alquiler a solicitud."
+        "Un hogar que se paga solo",
+        "A los huéspedes ya les encanta quedarse aquí, y las reseñas lo muestran. Pida las cifras de alquiler."
       ]
     ]
   },
   "view": {
     "tag": "La vista",
-    "h2": "El mar, en cada espacio que más usa",
-    "p1": "La sala se abre a una terraza privada a través de una pared de puertas corredizas de vidrio. Primero palmeras, luego el mar, luego el cielo.",
-    "p2": "Desde el sillón se ven las olas. Al atardecer la luz se vuelve dorada, luego rosada, y toda la sala toma ese color."
+    "h2": "El mar, desde el sillón",
+    "p1": "Abra la pared de vidrio y la sala se vuelve parte de la terraza. Primero palmeras, luego el mar, luego un cielo sin fin.",
+    "p2": "Al atardecer la luz se vuelve dorada, luego rosada, y toda la sala brilla con ella. Casi todas las noches, el atardecer es el espectáculo."
   },
   "home": {
     "tag": "Sala y cocina",
-    "h2": "Un solo espacio, de la cocina al mar",
-    "p": "Un espacio abierto va de la cocina a la terraza. Una isla de cuarzo con bancos altos. Electrodomésticos de acero inoxidable y un salpicadero de azulejos pintados a mano. Lavadora y secadora apiladas, en su propio rincón.",
+    "h2": "Cocine con el mar a la vista",
+    "p": "Cocina, comedor y sala forman un solo espacio luminoso que se abre a la terraza. Siéntese en la isla de cuarzo, con azulejos pintados a mano a su espalda y el mar enfrente. La lavadora y la secadora quedan en su propio rincón.",
     "caption": "Totalmente amueblado. Solo traiga la maleta."
   },
   "rooms": {
     "tag": "Habitaciones y baños",
     "h2": "Dos habitaciones, dos baños completos",
-    "intro": "Una habitación mira al mar y la otra a las colinas verdes. Las dos son tranquilas, frescas y se entregan listas para usar.",
+    "intro": "Una habitación mira al mar y la otra a las colinas verdes. Las dos se mantienen frescas y tranquilas, listas para usted.",
     "cards": [
       [
         "Habitación principal",
         "Cama king, vista al mar",
-        "Despierte frente al mar, tras una puerta corrediza de piso a techo. La puerta da directo a la terraza."
+        "Despierte con el sonido del mar. Abra la puerta corrediza de piso a techo y salga directo a la terraza."
       ],
       [
         "Segunda habitación",
         "Dos camas individuales, vista al bosque",
-        "Dos camas individuales y un escritorio, con vista a los árboles. Ideal para niños, invitados o una oficina en casa."
+        "Dos camas individuales y un escritorio, con vista a los árboles. Ideal para niños, invitados o para trabajar desde casa."
       ],
       [
         "Baños",
         "Dos baños completos",
-        "Duchas amplias tipo lluvia y acabados limpios y sencillos. De la playa, directo a una buena ducha."
+        "Duchas amplias tipo lluvia y acabados limpios y sencillos. Suba de la playa y quítese la sal."
       ]
     ]
   },
   "terrace": {
     "tag": "Terraza privada",
-    "h2": "En primera fila frente al Pacífico",
-    "line": "Café por la mañana, luz dorada por la tarde. Casi todos los días pasan volando las lapas rojas."
+    "h2": "Su lugar en primera fila frente al Pacífico",
+    "line": "Café por la mañana, algo de tomar al atardecer, y lapas rojas que pasan volando casi todos los días."
   },
   "building": {
     "tag": "El edificio",
-    "h2": "Un edificio pequeño y sereno",
-    "p": "Sunset Boulevard es un condominio pequeño, con solo 21 apartamentos. Tiene piscina con una pared de piedra en cascada, una sala techada junto a ella, ascensor y parqueo techado. Las áreas comunes se mantienen tranquilas y bien cuidadas.",
+    "h2": "Un edificio pequeño, con mucha calma",
+    "p": "Solo 21 apartamentos comparten Sunset Boulevard. Nade junto a la pared de piedra en cascada, lea en la sala techada junto a la piscina y vuelva a subir en ascensor. Todo es tranquilo y está bien cuidado.",
     "amenities": [
       [
         "Piscina",
@@ -219,13 +219,13 @@
   },
   "rooftop": {
     "tag": "Terraza en la azotea",
-    "h2": "El atardecer, desde la azotea",
-    "line": "La azotea común mira sobre toda la bahía. Suba con algo de tomar y quédese hasta que oscurezca."
+    "h2": "Atardeceres desde la azotea",
+    "line": "La azotea común mira sobre toda la bahía. Suba con algo de tomar, busque una silla y quédese hasta que salgan las estrellas."
   },
   "included": {
     "tag": "Qué incluye",
-    "h2": "Amueblado y listo",
-    "intro": "Todo lo que hay en el apartamento se incluye en la venta.",
+    "h2": "Llegue solo con la maleta",
+    "intro": "Todo lo que hay en el apartamento se queda: muebles, ropa de cama, utensilios de cocina, todo.",
     "items": [
       [
         "Vista al mar",
@@ -280,8 +280,8 @@
   "location": {
     "tag": "Ubicación",
     "h2": "Jacó Sur: tranquilo y cerca de todo",
-    "p1": "El apartamento está en el extremo sur de Playa Jacó, donde la playa se curva y forma una bahía. Aquí el agua es más calmada. La calle es tranquila y relajada.",
-    "p2": "El centro de Jacó, con sus restaurantes, tiendas y supermercados, está a pocos minutos. El ruido de la zona de bares no llega hasta aquí.",
+    "p1": "El apartamento está donde Playa Jacó se curva y forma una bahía. Aquí el mar es más calmado y la calle es relajada y verde.",
+    "p2": "Los restaurantes, tiendas y el supermercado del centro de Jacó están a pocos minutos. La vida nocturna queda lo bastante lejos para que sus noches sean tranquilas.",
     "points": [
       [
         "Playa Jacó",
@@ -307,15 +307,15 @@
   },
   "income": {
     "tag": "Ingresos por alquiler",
-    "h2": "Ya funciona como alquiler vacacional",
-    "p": "El apartamento 405 se alquila hoy en Airbnb y tiene un historial de reseñas de huéspedes. Puede mantenerlo como propiedad de renta, vivir en él, o las dos cosas.",
+    "h2": "Un hogar que ya genera ingresos",
+    "p": "El apartamento 405 es un Airbnb muy querido, con muchas reseñas felices de huéspedes. Siga alquilándolo, hágalo su hogar, o disfrute un poco de ambas cosas.",
     "fixed": "Cifras de ingresos por alquiler disponibles a solicitud.",
     "link": "Ver el anuncio en Airbnb y las reseñas de huéspedes"
   },
   "contact": {
     "tag": "Venta directa del dueño",
-    "h2": "Hable directamente con el dueño",
-    "p": "US$365.000. Sin comisión de corredor. Financiamiento directo del dueño. Escriba para hacer preguntas, coordinar una visita o pedir las cifras de alquiler.",
+    "h2": "Venga a conocerlo",
+    "p": "US$365.000, sin comisión de corredor y con financiamiento del dueño. Escriba con sus preguntas, coordine una visita o pida las cifras de alquiler. El dueño le responde personalmente.",
     "primary": "Escribir al dueño por WhatsApp",
     "secondary": "Véalo como lo ve un huésped",
     "small": "WhatsApp +506 6144 8011 · Respondemos en español e inglés"
