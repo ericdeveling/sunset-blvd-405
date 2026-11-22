@@ -28,14 +28,14 @@ function jpegSize(file) {
 
 // Page order of photos. The lightbox walks them in this order.
 const P = {
-  hero: 'jaco-condo-ocean-sunset-palm-trees-view',
+  hero: 'jaco-condo-private-balcony-ocean-sunset',
   view: ['jaco-ocean-view-condo-living-room-sunset'],
   viewBand: 'jaco-condo-living-room-ocean-view-day',
   viewPair: ['jaco-condo-living-room-sofa-sunset', 'jaco-condo-dining-island-sunset-view'],
   home: ['jaco-condo-kitchen-island-ocean-view', 'jaco-condo-quartz-island-kitchen', 'jaco-condo-kitchen-tile-backsplash', 'jaco-condo-kitchen-washer-dryer', 'jaco-condo-living-room-sofa-artwork'],
   rooms: ['jaco-condo-master-bedroom-king-bed-ocean-view', 'jaco-condo-second-bedroom-twin-beds', 'jaco-condo-bathroom-walk-in-shower'],
   roomsExtra: ['jaco-condo-master-bedroom-teal-wall', 'jaco-condo-master-bedroom-evening-view', 'jaco-condo-second-bathroom'],
-  terraceBand: 'jaco-condo-private-balcony-ocean-sunset',
+  terraceBand: 'jaco-condo-ocean-sunset-palm-trees-view',
   terrace: ['jaco-condo-balcony-dining-ocean-view', 'jaco-condo-balcony-glass-railing-jungle', 'jaco-condo-balcony-table-living-room', 'jaco-condo-balcony-living-room-dusk'],
   building: ['jaco-condo-pool-stone-waterfall-wall', 'jaco-condo-swimming-pool-jungle', 'jaco-condo-covered-pool-lounge', 'jaco-condo-covered-lounge-garden-view', 'jaco-condo-covered-parking', 'jaco-condo-building-walkway-ocean-air'],
   rooftopBand: 'jaco-condo-rooftop-terrace-ocean-sunset',

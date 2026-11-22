@@ -76,6 +76,7 @@ html[lang="es"] .lang-thumb { transform: translateX(100%); }
 .hero { position: relative; min-height: 100svh; display: flex; align-items: flex-end; color: var(--white); overflow: hidden; background: var(--dark); }
 .hero-img { position: absolute; inset: 0; height: 100%; cursor: default; }
 .hero-img img { object-position: 30% 60%; animation: heroIn 9s ease-out both; }
+@media (max-width: 47.9375rem) { .hero-img img { object-position: 8% 60%; } }
 .hero-img:hover img { transform: none; }
 @keyframes heroIn { from { transform: scale(1.08); } to { transform: scale(1); } }
 .hero::after { content: ""; position: absolute; inset: auto 0 0 0; height: 70%; background: linear-gradient(to top, rgba(10,16,20,0.82), rgba(10,16,20,0.35) 55%, transparent); pointer-events: none; }
