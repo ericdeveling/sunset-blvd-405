@@ -312,6 +312,45 @@
     "fixed": "Rental income figures available on request.",
     "link": "See the Airbnb listing and guest reviews"
   },
+  "reviews": {
+    "tag": "Guest reviews",
+    "h2": "What guests say",
+    "score": "4.96",
+    "scoreLine": "out of 5 from 53 Airbnb reviews · Guest favourite, top 10% of homes",
+    "items": [
+      [
+        "The sea view is better than the photos. I would live in this place!",
+        "Caio",
+        "Florida, USA"
+      ],
+      [
+        "Spotless, cozy and well equipped. Without a doubt, the best thing about it is the amazing view with spectacular sunsets. A perfect place to disconnect.",
+        "Pri",
+        "Santa Ana, Costa Rica"
+      ],
+      [
+        "We loved getting to see macaws and iguanas from the balcony, not to mention the fantastic ocean view.",
+        "Chelsea",
+        "Texas, USA"
+      ],
+      [
+        "An absolute gem! Just a couple minutes' walk to the beach. You're at the far end of the beach, so it isn't as hectic.",
+        "Jeremy",
+        "British Columbia, Canada"
+      ],
+      [
+        "Nice neighborhood at the south end of the beach. Quiet and safe, but close enough to town too.",
+        "Marco",
+        "Texas, USA"
+      ],
+      [
+        "The building is very secure, with gated parking under the building. The pool area is superb. I would not consider staying anywhere else in Jacó!",
+        "John",
+        "Michigan, USA"
+      ]
+    ],
+    "link": "Read all reviews on Airbnb"
+  },
   "contact": {
     "tag": "For sale by owner",
     "h2": "Come and see it for yourself",

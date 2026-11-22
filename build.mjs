@@ -281,6 +281,17 @@ function render(t) {
   </div>
 </section>
 
+<section class="sec sand reviews" id="reviews">
+  <div class="wrap">
+    ${head(t.reviews)}
+    <p class="rv-score"><span class="rv-n">${esc(t.reviews.score)}</span><span class="rv-stars" aria-hidden="true">★★★★★</span><span class="rv-line">${esc(t.reviews.scoreLine)}</span></p>
+    <ul class="rv" role="list">
+      ${t.reviews.items.map(([q, n, c]) => `<li><blockquote><p>“${esc(q)}”</p></blockquote><p class="rv-who">${esc(n)} · ${esc(c)}</p></li>`).join('\n      ')}
+    </ul>
+    <a class="text-link" href="${AIRBNB}#reviews" target="_blank" rel="noopener">${esc(t.reviews.link)}<span class="sr"> ${esc(t.ui.airbnbAria)}</span> →</a>
+  </div>
+</section>
+
 <section class="cta" id="contact">
   <div class="wrap narrow">
     ${head(t.contact, 'on-dark')}

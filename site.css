@@ -228,3 +228,14 @@ html[lang="es"] .lang-thumb { transform: translateX(100%); }
 .lb-prev { left: 1rem; top: 50%; transform: translateY(-50%); }
 .lb-next { right: 1rem; top: 50%; transform: translateY(-50%); }
 @media (max-width: 40em) { .lb-prev, .lb-next { top: auto; bottom: 1rem; transform: none; } .lb-prev { left: calc(50% - 3.5rem); } .lb-next { right: calc(50% - 3.5rem); } }
+
+/* Guest reviews */
+.rv-score { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.4rem 0.9rem; margin: 0.5rem 0 2.5rem; }
+.rv-n { font-size: clamp(2.4rem, 1.8rem + 3vw, 4rem); color: var(--sunset); line-height: 1; }
+.rv-stars { color: var(--sunset); font-size: 1.2rem; letter-spacing: 0.15em; }
+.rv-line { flex-basis: 100%; font-family: var(--sans); font-size: 0.9rem; color: var(--muted); }
+.rv { list-style: none; padding: 0; margin: 0 0 2.25rem; display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); }
+.rv li { background: var(--white); padding: 1.75rem 1.6rem; border-top: 0.2rem solid var(--sunset); display: flex; flex-direction: column; justify-content: space-between; gap: 1.25rem; }
+.rv blockquote { margin: 0; }
+.rv blockquote p { font-size: 1.15rem; line-height: 1.55; font-style: italic; }
+.rv-who { font-family: var(--sans); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--sunset-deep); }

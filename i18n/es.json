@@ -312,6 +312,45 @@
     "fixed": "Cifras de ingresos por alquiler disponibles a solicitud.",
     "link": "Ver el anuncio en Airbnb y las reseñas de huéspedes"
   },
+  "reviews": {
+    "tag": "Reseñas de huéspedes",
+    "h2": "Lo que dicen los huéspedes",
+    "score": "4,96",
+    "scoreLine": "de 5 en 53 reseñas de Airbnb · Favorito entre huéspedes, top 10 % de alojamientos",
+    "items": [
+      [
+        "La vista al mar es mejor que en las fotos. ¡Yo viviría en este lugar!",
+        "Caio",
+        "Florida, EE. UU."
+      ],
+      [
+        "Impecable, acogedor y bien equipado. Sin duda, lo mejor es la increíble vista con atardeceres espectaculares. Un lugar perfecto para desconectarse.",
+        "Pri",
+        "Santa Ana, Costa Rica"
+      ],
+      [
+        "Nos encantó ver lapas e iguanas desde el balcón, además de la fantástica vista al mar.",
+        "Chelsea",
+        "Texas, EE. UU."
+      ],
+      [
+        "¡Una verdadera joya! A un par de minutos caminando de la playa. Está en el extremo de la playa, así que no es tan agitado.",
+        "Jeremy",
+        "Columbia Británica, Canadá"
+      ],
+      [
+        "Lindo vecindario en el extremo sur de la playa. Tranquilo y seguro, pero lo bastante cerca del pueblo.",
+        "Marco",
+        "Texas, EE. UU."
+      ],
+      [
+        "El edificio es muy seguro, con parqueo cerrado bajo el edificio. El área de la piscina es excelente. ¡No consideraría quedarme en ningún otro lugar de Jacó!",
+        "John",
+        "Michigan, EE. UU."
+      ]
+    ],
+    "link": "Leer todas las reseñas en Airbnb"
+  },
   "contact": {
     "tag": "Venta directa del dueño",
     "h2": "Venga a conocerlo",
