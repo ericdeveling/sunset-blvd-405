@@ -6,7 +6,7 @@ const BASE = 'https://sunset-blvd-405.pages.dev/';
 const WA = '50661448011';
 const AIRBNB = 'https://www.airbnb.com/rooms/1527613334489602829';
 const GTAG = 'G-701SCTSRCR';
-const PRICE = 375000;
+const PRICE = 365000;
 
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
